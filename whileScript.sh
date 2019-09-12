@@ -1,6 +1,5 @@
 #!/bin/bash
-<<<<<<< HEAD
-#cambio solo para ver en git
+#cambio solo para ver en git again
 
 #This change will be reverted
 
